@@ -1,4 +1,5 @@
-Status badge shows Azure pipeline succeeded
+![image](https://github.com/pmedinavargas/pipelines/assets/131786763/5cf75ae2-b95d-471e-9781-55bd7ee9047f)
+
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
